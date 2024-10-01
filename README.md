@@ -4,10 +4,11 @@
 Small App created as an exercise while studying at Syntax Institut. 
 
 ## Screens
-
+<div style="display: flex; flex-direction: row; gap: 10px;">
 <img src="https://imagizer.imageshack.com/img923/5022/OFMBGm.png" width="200" height="400" alt="Screenshot 1">
 <img src="https://imagizer.imageshack.com/img924/9918/v4WE8h.png" width="200" height="400" alt="Screenshot 1">
 <img src="https://imagizer.imageshack.com/img922/8525/XVBdTl.png" width="200" height="400" alt="Screenshot 1">
+</div>
 ## How to run
 
 1.Clone
