@@ -7,6 +7,7 @@ Small App created as an exercise while studying at Syntax Institut.
 
 [screen](https://imagizer.imageshack.com/img923/5022/OFMBGm.png)
 
+<img src="https://imagizer.imageshack.com/img923/5022/OFMBGm.png" width="200" height="400" alt="Screenshot 1">
 ## How to run
 
 1.Clone
